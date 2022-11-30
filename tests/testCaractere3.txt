@@ -1,0 +1,6 @@
+init 8 11
+car .
+ajouter carre 0 0 11
+car &
+ajouter lettre 0 0 &
+dessiner

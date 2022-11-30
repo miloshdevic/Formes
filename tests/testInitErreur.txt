@@ -1,0 +1,3 @@
+car .
+ajouter rectangle 0 0 4 4
+dessiner

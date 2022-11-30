@@ -1,0 +1,6 @@
+init 24 11
+car .
+ajouter rectangle 0 0 24 11
+car a
+ajouter texte 0 0 Ana
+dessiner

@@ -1,0 +1,6 @@
+init 30 30
+car .
+ajouter rectangle 0 0 30 30
+car p
+ajouter lettre 2 2 P
+dessiner
